@@ -1,2 +1,3 @@
-# generic-handlers
-An ASP.NET Core Minimal API example snippet using generic handlers
+# Generic Handlers
+
+An ASP.NET Core Minimal API example snippet using generic handlers.
